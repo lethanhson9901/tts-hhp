@@ -122,7 +122,7 @@ python3 -m vietTTS.synthesizer \
   --text="hôm qua em tới trường" \
   --output=clip.wav
 ```
-
+```sh
 ├── assets                                #Nơi chứa các file weight 
 │   ├── hifigan
 │   │   └── config.json
@@ -225,4 +225,4 @@ python3 -m vietTTS.synthesizer \
     ├── requires.txt
     ├── SOURCES.txt
     └── top_level.txt
-
+```
