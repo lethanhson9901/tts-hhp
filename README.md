@@ -122,6 +122,7 @@ python3 -m vietTTS.synthesizer \
   --text="hôm qua em tới trường" \
   --output=clip.wav
 ```
+Cấu trúc thư mục
 ```sh
 ├── assets                                #Nơi chứa các file weight 
 │   ├── hifigan
