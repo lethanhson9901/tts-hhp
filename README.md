@@ -227,3 +227,8 @@ Cấu trúc thư mục
     ├── SOURCES.txt
     └── top_level.txt
 ```
+
+Useful links:
+https://github.com/mozilla/TTS/tree/master/TTS/tts/utils/text
+https://github.com/mozilla/TTS/wiki/Dataset
+
